@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is an example of code splitting, this is not the best practice but is to understand what is happening under the hood.
+
+https://reactjs.org/docs/code-splitting.html <br />
+-- Route-based code splitting --
+
 ## Available Scripts
 
 In the project directory, you can run:
